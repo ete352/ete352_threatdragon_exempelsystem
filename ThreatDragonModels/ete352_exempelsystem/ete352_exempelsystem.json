@@ -1014,8 +1014,9 @@
         ],
         "version": "2.0.0",
         "title": "Exempelsystem",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "id": 0,
+        "diagramType": "CIA"
       }
     ],
     "reviewer": "miksc278"
